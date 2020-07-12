@@ -2,5 +2,5 @@ mod ffi;
 mod utils;
 
 pub fn main() {
-  utils::log("Hello World 🤔");
+  utils::log("Hello World 🤔 🤘");
 }
